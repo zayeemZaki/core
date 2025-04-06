@@ -13,11 +13,11 @@ Vue.js is an MIT-licensed open source project with its ongoing development made 
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://github.com/appwrite/appwrite">
-    <img alt="special sponsor appwrite" 
-         src="https://sponsors.vuejs.org/images/appwrite.svg" 
+  <a target="_blank" href="https://appwrite.io">
+    <img src="https://appwrite.io/images-ee/press/badge-pink-button.svg" 
+         alt="Built with Appwrite" 
          width="300"
-         style="background-color: white; padding: 10px; border-radius: 8px;">
+         style="background-color: white; padding: 8px; border-radius: 6px;">
   </a>
 </p>
 

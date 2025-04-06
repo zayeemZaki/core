@@ -352,4 +352,7 @@ Funds donated via Patreon go directly to support Evan You's full-time work on Vu
 
 Thank you to all the people who have already contributed to Vue.js!
 
-<a href="https://github.com/vuejs/core/graphs/contributors"><img src="https://opencollective.com/vuejs/contributors.svg?width=890" /></a>
+<a href="https://github.com/vuejs/core/graphs/contributors">
+  <img src="https://img.shields.io/github/contributors/vuejs/core" alt="GitHub Contributors" />
+</a>
+
